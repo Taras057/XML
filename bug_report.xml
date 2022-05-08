@@ -1,1 +1,16 @@
+<xml>
+        <summary>"type_error"</summary>
+        <Project>"Name_project"</Project>
+        <Version>"Version_error"</Version>
+        <Severity>"Major"</Severity>
+        <priority>"Medium"</priority>
+        <Status>"status_bug"</Status>
+        <Author>"Author_bug"</Author>
+        <Assignet_to>"Name_emploee"</Assignet_to>
+        <environment>"os,browser"</environment>
+        <Steps_to_reproduce>"steps"</Steps_to_reproduce>
+        <Result>"result"</Result>
+        <Expected_result>"correct_result_expected"</Expected_result>
+        <Attachment>"file_to_logs,screenshot"</Attachment>
 
+</xml>
